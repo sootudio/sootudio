@@ -1,4 +1,7 @@
-### Hi there 👋
+### 반갑습니다. 오늘도 즐거운 날입니다. 
+
+🔭 HGU CSEE(2018~2024), SSAFY(2024~)
+🌱 Spring, AWS, JPA를 공부하고 있습니다.
 
 <!--
 **sootudio/sootudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kswim57)](https://solved.ac/kswim57/)
