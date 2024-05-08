@@ -4,9 +4,6 @@
 
 🌱 Spring, AWS, JPA를 공부하고 있습니다.
 
-HGU CSEE(2018~2024.2)
-SSAFY (2024.1~)
-
 <!--
 **sootudio/sootudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
