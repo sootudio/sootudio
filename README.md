@@ -2,7 +2,9 @@
 
 🔭 HGU CSEE(2018 - 2024), SSAFY(2024-)
 
-🌱 Spring, AWS, JPA를 공부하고 있습니다.
+🌱 Spring, AWS, MyBatis를 공부하고 있습니다.
+
+
 
 <!--
 **sootudio/sootudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
