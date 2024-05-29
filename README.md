@@ -1,8 +1,8 @@
-### 반갑습니다. 오늘도 즐거운 날입니다. 
+### 반갑습니다. 오늘도 즐거운 날입니다.
 
 🔭 HGU CSEE(2018 - 2024), SSAFY(2024-)
 
-🌱 Spring, AWS, MyBatis를 공부하고 있습니다.
+🌱 Spring, AWS, MyBatis, JPA를 공부하고 있습니다.
 
 
 
