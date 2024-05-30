@@ -1,10 +1,13 @@
 ### 반갑습니다. 오늘도 즐거운 날입니다.
 
-🔭 HGU CSEE(2018 - 2024), SSAFY(2024-)
+🔭 I’m currently working on ...
+- HGU CSEE(2018 - 2024)
+- SSAFY(2024-)
 
-🌱 Spring, AWS, MyBatis, JPA를 공부하고 있습니다.
-
-✈️ 백엔드 개발자를 목표로 준비하고 있습니다.
+🌱 I’m currently learning ...
+- Spring
+- AWS
+- JPA
 
 
 <!--
