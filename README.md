@@ -1,10 +1,10 @@
 ### 반갑습니다. 오늘도 즐거운 날입니다.
 
-🔭 I’m currently working on ...
+🔭 이런 경험을 하였습니다.
 - HGU CSEE(2018 - 2024)
 - SSAFY(2024-)
 
-🌱 I’m currently learning ...
+🌱 요즘 이런 것들을 공부하고 있습니다.
 - Spring
 - AWS
 - JPA
