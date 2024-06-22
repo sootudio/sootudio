@@ -8,6 +8,7 @@
 - Spring
 - AWS
 - JPA
+- Git, Github
 <!--
 **sootudio/sootudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
