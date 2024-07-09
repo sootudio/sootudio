@@ -4,11 +4,12 @@
 - HGU CSEE(2018 - 2024)
 - SSAFY(2024-)
 
-🌱 요즘 이런 것들을 공부하고 있습니다.
+🌱 이런 것들을 공부하고 있습니다.
 - Spring
 - AWS
 - JPA
 - Git, Github
+- Docker
 <!--
 **sootudio/sootudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
