@@ -1,6 +1,9 @@
-![sea_background1](https://github.com/user-attachments/assets/bc68c4af-f191-49d5-b91e-49a8d83ce63e)
+![README_background_image](https://github.com/user-attachments/assets/a3d55da4-9dae-4d92-b113-ddb887a535a8)
+
 
 ### 궁금한 게 많은 개발자, 김수영입니다.
+
+<br />
 
 💁🏻 About me
 - 안녕하세요! 백엔드 개발자를 지망하고 있는 김수영입니다.
@@ -9,33 +12,29 @@
 - 하지만, 호기심을 따라 시작한 일에 책임감을 가지고 꾸준히 지속하려고 노력합니다.
 - 기능만 구현하는 것이 아닌, 클라이언트를 이해시키는 개발자가 되고 싶습니다.
 
-🔭 Education
-- HGU CSEE(2018 - 2024) 
-- SSAFY 11기(2024-) Java 웹 개발자 코스
+<br />
 
 🌱 Skills
 - Spring
 - AWS
 - JPA
-- Git, Github
-- Docker
-- Jenkins
 
-  
-<!--
-**sootudio/sootudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+🏅 Awards
+- 2024 신한 해커톤 대상
+- 2024 서울시 열린데이터광장 공공데이터 활용 창업경진대회 우수상(3등)
+- 2024 한동대학교 SW창업경진대회 최우수상
+- 2023 한동대학교 SW Festival 스마트 애플리케이션 공모전 최우수상
+- 2023 포스텍 대구경북권 미니 아이코어 우수상
+- 제 34회 한동대학교 전산전자공학부 캡스톤 페스티벌 '캡스톤 디자인2' 부문 우수상
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
 
+🔭 Education
+- HGU CSEE(2018 - 2024) 
+- SSAFY 11기(2024-) Java 웹 개발자 코스
+
+<br />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kswim57)](https://solved.ac/kswim57/)
