@@ -1,7 +1,7 @@
 ![README_background_image](https://github.com/user-attachments/assets/a3d55da4-9dae-4d92-b113-ddb887a535a8)
 
 
-### 궁금한 게 많은 개발자, 김수영입니다.
+### 매일 공유하는 개발자, 김수영입니다.
 
 <br />
 
@@ -18,6 +18,7 @@
 - Java
 - Spring Boot
 - MySQL
+- JPA
 
 <br />
 
