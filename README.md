@@ -36,3 +36,4 @@
 - HGU CSEE(2018.03 - 2024.02) 전산전자공학부 AI·컴퓨터공학심화 전공
 - SSAFY 11기(2024.01 - 2023.12) Java 웹 개발자 코스
 - NEXTSTEP Spring web 마스터하기 2기 (2025.01)
+- NEXTSTEP ATDD In Legacy Code 1기 (2025.09)
